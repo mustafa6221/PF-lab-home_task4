@@ -1,7 +1,4 @@
-// Write a C program that simulates a simple ATM withdrawal. Read the account balance and the amount the user
-// wants to withdraw. The withdrawal should only succeed if the amount is a multiple of 500, does not exceed the
-// available balance, and does not exceed a daily limit of 25,000. Use logical operators to combine all the checks
-// and print an appropriate message for each possible failure reason.
+
 #include <stdio.h>
 
 int main()
