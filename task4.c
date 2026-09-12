@@ -1,6 +1,4 @@
-// Write a C program that reads a single alphabet character and uses a switch statement to determine whether it is
-// a Vowel or a Consonant. The program should work for both uppercase and lowercase input and should print an
-// error message if the input is not a letter.
+
 #include<stdio.h>
 int main()
 {
