@@ -1,6 +1,4 @@
-// Write a C program that displays a menu with the options: (1) Check Even/Odd, (2) Check Prime, (3) Find Square,
-// (4) Exit. Read the user&#39;s choice and a number where needed, then use a switch statement to route to the correct
-// operation. For option 2, use a loop or nested if-else logic to determine whether the number is prime.
+
 #include <stdio.h>
 int main()
 {
