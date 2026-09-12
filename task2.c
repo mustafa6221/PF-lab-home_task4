@@ -1,6 +1,4 @@
-// Write a C program that reads the lengths of three sides of a triangle. First validate that the sides can actually
-// form a triangle (the sum of any two sides must be greater than the third), then classify it as Equilateral,
-// Isosceles, or Scalene.
+
 #include<stdio.h>
 int main()
 {
